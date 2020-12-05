@@ -3,7 +3,9 @@ Welcome to the TokenEconomyBook wiki!
 Table of Contents
 
 [[Imprint]]
+
 [[Table of Contents]]
+
 [[About the Author]]
 [[About the Book]]
 How to Read This Book
