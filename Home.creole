@@ -1,0 +1,182 @@
+Welcome to the TokenEconomyBook wiki!
+
+Table of Contents
+
+[[Imprint]]
+[[Table of Contents]]
+[[About the Author]]
+[[About the Book]]
+How to Read This Book
+Introduction
+Part1: Web3 Basics
+Tokenized Networks: 
+Web3, the Stateful Web
+Blockchain: A Stateful Protocol
+Other Web3 Protocols
+Decentralized Applications in the Web3
+Chapter Summary
+Chapter References & Further Reading
+Keeping Track of the Tokens: 
+Bitcoin, Blockchain, & Other Distributed Ledgers
+Cryptoeconomics, Consensus & Proof-of-Work
+Network Nodes
+Network Attacks
+Protocol Forks & Network Splits
+Alternative Distributed Ledger Systems
+Alternative Consensus Mechanisms to PoW
+With or without a Token?
+Use Cases & Applications
+Chapter Summary
+Chapter References & Further Reading
+Token Security: 
+Cryptography
+Public-Key Cryptography
+Secure Algorithms
+Hashing
+Wallets & Digital Signatures
+Types of Wallets & Key Management
+Sending Tokens
+Chapter Summary
+Chapter References & Further Reading
+Who Controls The Tokens? 
+User-Centric Identities
+Server-Centric Identities
+History of Digital Identity Management
+User-Centric Identities
+Outlook
+Chapter Summary
+Chapter References & Further Reading
+Part 2: Web3 Applications
+Smart Contracts
+Self-Enforcing Agreements
+Industry Use Cases
+Oracles
+Use Case of Buying a Second-Hand Car
+History of Smart Contracts
+Chapter Summary
+Chapter References & Further Reading
+Institutional Economics of Web3 Networks & other DAOs
+DAOs vs. Traditional Organizations
+Institutional Economics of DAOs
+Monetary & Fiscal Policy of DAOs
+Chapter Summary
+Chapter References & Further Reading
+Governance of Web3 Networks & Other DAOs
+Checks & Balances in the Network
+Off-Chain vs. On-Chain Governance
+The Myth of Decentralization & Trustless Networks
+Chapter Summary
+Chapter References & Further Reading
+Tokens
+History of Tokens
+Cryptographic Tokens
+Properties of Tokens
+Non-Fungible Tokens
+Chapter Summary
+Chapter References & Further Reading
+Part3: Token Economics & Decentralized Finance
+The Future of Money & 
+Decentralized Finance (DeFi)
+Properties of Money
+Types of Money
+Money or Not?
+Decentralized Finance (DeFi): Toward a Digital Barter Economy
+Chapter Summary
+Chapter References & Further Reading
+Stable Tokens
+Asset-Collateralized Stable Tokens
+Crypto-Collateralized Stable Tokens
+Central Bank Digital Currency
+Algorithmic Stable Tokens
+Challenges & Outlook
+Chapter Summary
+Chapter References & Further Reading
+Privacy Tokens
+Privacy of Blockchain Tokens
+History of Privacy Tokens
+Full Web3 Privacy
+Legal & Political Aspects of Privacy
+Chapter Summary
+Chapter References & Further Reading
+Trading Tokens, Atomic Swaps & DEX
+Challenges of Centralized Exchanges
+Atomic Swaps
+Decentralized Exchanges
+Chapter Summary
+Chapter References & Further Reading
+Lending Tokens - Decentralized Credit Systems
+P2P Lending
+P2P Borrowing
+Flash Loans
+P2P Lending Protocols
+Flash Attacks
+Chapter Summary
+Chapter References & Further Reading
+Token Sales:
+ICOs, ITOs, IEOs, STOs
+History of Token Sales
+Types of Token Sales
+Challenges of Token Sales
+Initial Exchange Offerings
+Chapter Summary
+Chapter References & Further Reading
+Part 4: Token Use Cases
+Asset Tokens & Fractional Ownership
+Use Case 1: Security Tokens
+Use Case 2: Tokenizing Real Estate
+Use Case 3: Tokenizing Art
+Use Case 4: Collective Fractional Ownership
+Chapter Summary
+Chapter References & Further Reading
+Purpose-Driven Tokens
+Public Goods & the Tragedy of the Commons
+Positive & Negative Externalities
+Behavioral Economics & Nudging
+Cognitive Psychology & Behavioral Analysis
+Behavioral Finance & Behavioral Game Theory
+Mechanism Design & Token Engineering
+Chapter Summary
+Chapter References & Further Reading
+Steemit, Hive & Reddit: Tokenized Social Networks
+Problems in Social Media Today
+Token Economics of Steemit
+Criticism of Steemit
+Steemit Hard Fork: Hive Network
+Reddit: Tokenizing Web2 Platforms
+Chapter Summary
+Chapter References & Further Reading
+Basic Attention Token: Advertising Reinvented
+Attention Economy, Data Markets & Privacy
+Basic Attention Token (BAT)
+Outlook & Challenges
+Chapter Summary
+Chapter References & Further Reading
+Token Curated Registries - The New Search?
+How TCRs Work
+Attack Vectors
+Criticism of TCRs
+Other Types of TCRs
+Chapter Summary
+Chapter References & Further Reading
+How to Design a Token System
+Technical Engineering
+Legal Engineering
+Economic Engineering
+Ethical Engineering
+Chapter Summary
+Chapter References & Further Reading
+Annex
+Origins of Bitcoin & the Web3
+Chapter References & Further Reading
+Scalability Solutions
+State Channels
+Sidechains
+Blockchain Interoperability
+Sharding
+Alternative Cryptographic Algorithms
+Chapter References & Further Reading
+Libra & Celo
+Chapter References & Further Reading
+Outlook
+Tables & Figures
+
