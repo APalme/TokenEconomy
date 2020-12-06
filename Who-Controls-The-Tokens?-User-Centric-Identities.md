@@ -52,14 +52,9 @@ In his manifesto Allen outlined the delicate balance between the right to privac
 
 The above mentioned principles have been incorporated into a series of user-centric identity initiatives and working groups over the years, such as  “Social Linked Data,” “Rebooting the Web of Trust,” “WebIDs,” and most recently the “W3C Working Group on Decentralized Identifiers (DIDs).” The aim of all these initiatives has been to provide international open standards that decouples the process of issuing a credential and marking a claim from verifying those claims over a set of actors, which removes many of the issues that server-centric solution face. 
 
-
-### 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.jpg "image_tooltip")
-
+***
+![History of Identities](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/30_HistoryOfIdentities.png) 
+***
 
 
 ## User-Centric Identities using DIDs
@@ -78,12 +73,9 @@ The wallet is the digital equivalent to a physical wallet, which - in addition t
 
 * **<span style="text-decoration:underline;">Identity verifiers</span>** are third parties that provide services upon verification of certain identity-related  attributes. For example, if there is an age limit on buying alcohol, or watching a movie, the identity verifier (the shop or movie theater) can validate the signature of the government  that issued and attested to this credential. 
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.jpg "image_tooltip")
+***
+![User-Centric Identities](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/29_UserCentricIdentities.png) 
+***
 
 
 The credentials are signed by their issuers using public-key cryptography. Once signed by an issuer, credentials can be managed by the identity owner to make claims, simply by using their wallet. Identity owners use their wallet to disclose which data they want to share with the outside world. They get to decide and control not only with whom they want to share their data, but also when to share that data. To do that, they need to attest to the network their consent to share selected data with authorized institutions. 
