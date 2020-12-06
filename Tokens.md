@@ -43,28 +43,15 @@ We are still in the very early stages of exploring different roles and types of 
 
 Identifying different properties of a token can be used as a first step to fine-tune a future classification framework and also for designing the properties of a token (read more: Part 4 - How to Design a Token System). This identification of properties is a result of a process called “morphological analysis.” It is a framework for structuring the relevant questions as a first approach in a heuristic way, especially useful for exploring all the possible solutions to a multi-dimensional, non-quantified complex problem. I would, therefore, like to introduce the most important perspectives from which we can derive the properties of a token: (i) Technical perspective; (ii) Rights perspective; (iii) Fungibility perspective; (iv) Transferability perspective; (v) Durability perspective; (vi) Regulatory perspective; (vii) Incentive perspective; (viii) Supply perspective; and (ix) Token flow perspective.
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-
+***
+![Token Properties](.png)
+***
 
 **<span style="text-decoration:underline;">Technical Perspective</span>**: From a technical perspective, tokens can be implemented on different layers of the technology, either as (i) protocol tokens, (ii) second-layer tokens, like application tokens or tokens created on a sidechain,[^2] or as (iii) multi-asset ledger tokens. Protocol tokens, also referred to as intrinsic, native, or built-in tokens, have a very clear role in a public network: to keep the network safe from attack by acting as block validation incentives (miner rewards), and for transaction spam prevention. Native protocol tokens might furthermore be needed to pay for transaction fees in the network and can be regarded as the “currency” of the distributed Internet. Application tokens, on the other hand, can have any function or property. They can represent anything from a physical good, a digital good, or a right to perform an action in a network or in the real world. The Ethereum network has one protocol token (ETH) and a whole economy of application tokens running on top of the network (ERC-20 and other Ethereum token standards allow the creation of application tokens with a smart contract). Second-layer tokens can also be issued by a sidechain and are more dominant in the Bitcoin ecosystem. Sidechains that allow the creation of second-layer tokens are, for example, “[Elements](https://elementsproject.org/),” “[Liquid](https://blockstream.com/liquid/),” or “[Rootstock](https://www.rsk.co/).” They interact with a blockchain to manage the state of the tokens. Due to network effects, the value of application tokens and other second-layer tokens is likely to be interdependent with the value of the underlying native blockchain token. An example thereof is the value of ETH (the native Ethereum token), which rose in the ICO bubble of 2016 to 2017 due to the large amount of ETH that was needed to buy app tokens issued through ICOs (read more: Part 3 - Token Sales). Multi-asset ledgers like “[Ripple](https://ripple.com/)” and “[Stellar](https://www.stellar.org)” allow the creation of multiple tokens on the native level. Stellar allows anyone to create token contracts with all kinds of variables. On Ripple (XRP), everyone can issue any kind of token on the network, but they are issued as IOUs,[^3] essentially debt. XRP is therefore considered as credit, which is why some call it the “credit network.” To get to use these tokens, others must enable trust to one’s wallet, which means that one transfers debt. Ripple and Stellar can therefore be regarded as a settlement bus for other assets. The tokens XRP and XLM are essentially protocol tokens, but in their networks, they are representations of other assets and those representations are used to track credits and debts in a multi-dimensional value space. One can think of them as nascent cryptographically enforced foreign-exchange networks.
 
-
-
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
-
+***
+![Where tokens are generated - Technocal Perspective](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/16_TokensTechnicalPerspective.png)
+***
 
 
 **<span style="text-decoration:underline;">Rights Perspective</span>**: Tokens can represent a right to some underlying economic value, whether digital or physical, long term or temporary. A token can represent (i) a right to an asset I own, or (ii) limited access rights to assets or services that others own or provide, or a (iii) voting right. The economic definition of an asset is a resource that has an economic value and is controlled by an individual or a legal entity or a country. The legal definition of an asset is anything which has monetary value attached to it. Ownership right is the legal right to possession of a thing, including all usage rights, both physical and intellectual. In some countries, ownership is only possible in connection with physical things. Rights of use, or access rights, are contractual rights to use something in possession of someone else. Therefore, a token could represent any asset or resource, representing one’s ownership or the right to use said resource. These can be public or private assets, utilities, or services of any kind.
@@ -79,16 +66,9 @@ Identifying different properties of a token can be used as a first step to fine-
 
 
      
-
-
-    
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
-
+***
+![Rights Perspective of Tokens](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/19_RightsPerspective.png)
+***
 
     
 
@@ -99,36 +79,17 @@ Equally, fungible cryptographic tokens can represent any physical or digital ass
 The more easily divisible a token is, the more fungible it is. Divisibility refers to the fact that you can send a fraction of the token to someone else. In the real world, many real assets cannot be divided, which makes them less easily tradeable. Cryptographic tokens can represent assets that were not easily divisible before, and can now be fractionalized at lower transaction costs than with established systems. Physical goods that are non-divisible can be first tokenized and then divided and sold off in different parts. Fractional tokenized ownership might allow a new array of asset classes, like real estate or art, and make those assets more liquid and fungible. However, there are practical limitations of redeeming a represented asset, for example, a piece of art (read more: Part 4 - Asset Tokens & Fractional Ownership). While in theory, there is no limit to making tokens divisible to 100 decimals, it is not economically feasible to do so. The overhead is huge when dealing with trillions of addresses that can and will hold leftover “dust.” Dust in this context refers to very small amounts of unspent tokens that are often not worth it to transfer, as the transaction fees might be higher than the dust is worth. There is a point where the marginal utility of extra divisibility is outweighed by the extra computational effort (storage and bandwidth). Furthermore, dusting attacks, where minuscule amounts of tokens are sent to random addresses to make them easily traceable, will be more feasible.
 
 
-    
-
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
-
-
+***
+![Fungibility Perspective of Tokens](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/22_FungibilityPerspective.png)
+***
 
 <span style="text-decoration:underline;">Privacy Perspective</span>: As opposed to common belief, the Bitcoin network does not provide full anonymity, hence privacy, but rather pseudonymity. This means that one can use the power of big data to correlate other data points, which might be publicly available or accessible to certain national security agencies, against the metadata connected to a certain BTC transaction and address. If someone behind a Bitcoin address becomes a person of interest, and the provenance of their tokens’ history becomes tainted or blacklisted, this person might have problems trading their tokens. In such cases, authorities could correlate your Bitcoin address against other, more traditional data points that are subject to know-your-customer regulations (KYC), like banks and exchanges, or even e-commerce platforms like Amazon. If you were to pay for your purchase on Amazon with Bitcoin, for example, and your tokens have a history that is tainted, Amazon might decide not to accept it. The privacy, and as a result also the fungibility of Bitcoin and similar tokens, may therefore be up for debate. If a tokens’ history can be tracked and that token is linked to illicit activity that would make the token “tainted,” limiting its role as a medium of exchange. Newer blockchain networks like[ “Zcash](https://z.cash/)” and[ “Monero](https://getmonero.org/)” are working with alternative cryptographic tools that could make their tokens more private and thus more fungible (read more: Privacy Tokens).
 
 **<span style="text-decoration:underline;">Transferability Perspective</span>**: Tokens can be transferable or non-transferable, or have restricted transferability. Unique (non-fungible) tokens can be transferable or non-transferable depending on the use case. A plane ticket might be transferable or non-transferable depending on the type of ticket you bought. A piece of art or the registration paper of your car, for example, are unique but transferable. Identity-bound tokens like certificates or licenses are usually non-transferable. A token that allows you to pick up your kids from kindergarten is unique, but could have some limited or temporary transferability to allow you to arrange for someone else to pick up your kids by temporarily granting that person pickup rights. While fungible tokens tend to be transferable in most cases, there are also exceptions to the rule.
-
-
-    
-
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-
-
-
-    
-
+ 
+***
+![Tokens from a Transferability Perspective](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/23_TransferabilityPerspective.png)
+***
 
 **<span style="text-decoration:underline;">Durability Perspective</span>**: In economics, durability refers to the ability of a currency to withstand repeated use. This means that the substrate of that currency should not easily vanish, decay, or rot. Metals or durable foods like wheat have high durability, and were therefore often used as commodity money. The Bitcoin token and similar protocol tokens have so far proven to withstand time, being resilient against any type of censorship or network attack. A resilient network is expected to contribute to a “relatively” stable long-term value of the token. If one can correlate network resilience to the value of the network token, the token can be expected to be durable, as it will not cease to exist. As long as the network is robust and used, new tokens will be minted and demand for tokens will increase. Token prices might decrease due to price fluctuations, but the token as such will not vanish as long as the network is intact. A network with a weak consensus protocol, on the other hand, might be attacked and manipulated, in which case token holders could lose their tokens if the ledger is tampered with.
 
