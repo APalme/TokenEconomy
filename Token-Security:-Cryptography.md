@@ -19,10 +19,9 @@ While early attempts to encrypt electronic communication focused on providing se
 The Bitcoin network mainly uses hashes in combination with digital signatures to protect the integrity of the data flowing through the network using public-key cryptography. Hashes are furthermore used in the context of the consensus protocol “Proof-of-Work.” Bitcoin uses public-key cryptography, and more specifically, elliptic-curve cryptography. Please note that alternative blockchain networks and other distributed ledger systems might use alternative cryptographic tools to the ones described below. Some blockchain networks, for example, use more privacy-preserving cryptography, such as “[Zcash](https://z.cash/)” (zero-knowledge proofs)[^2] and “[Monero](https://getmonero.org/)” (ring signatures)[^3]. The Bitcoin community itself is currently looking into alternative cryptographic signature schemes that are more privacy preserving and more scalable, for example, with “Mimblewimble”  (read more: Part 3 - Privacy Tokens).
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+***
+![Symmetric Cryptography vs. Assymmetric Cryptography](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/06_Symmetric_Assymmetric_Cryptography.png)
+***
 
 
 ## Public-Key Cryptography
@@ -67,15 +66,9 @@ When launched for the first time, a Bitcoin wallet generates a key pair consisti
 
 Digital signatures in the Bitcoin network and similar blockchain networks are performed using a wallet software. Similar to a handwritten signature, a digital signature is used to verify that you are who you say you are. Properly implemented, they are more difficult to forge than handwritten signatures. Digital signatures have been in use for decades, mostly in the context of financial transactions, software licenses, or contract management software. In blockchain networks, digital signatures are used for the authentication (proof that the sender of tokens is, in fact, the sender) and integrity of the transaction (i.e. the amount of tokens sent). The private key is used for signing token transactions. The public key is used by the validating nodes in the network to verify the signature. This way, a wallet cannot pretend to be another wallet. This is also referred to as “non-repudiation.” Practically speaking, this means that another person cannot pretend to control your wallet, unless they have your private key. 
 
-
-
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
+***
+![Generation of keys and adresses](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/04_GenerationKeysAdresses_alt.png)
+***
 
 ## Types of Wallets & Key Management
 
@@ -94,11 +87,9 @@ At the time of writing this book, most wallets only allow the management of one 
 Ring signatures, collective signatures, and “Shamir’s Secret Sharing”[^7] are all examples of alternative cryptographic algorithms that need to be enabled by the blockchain networks and supported by the wallet software to allow for co-signing of transactions. Co-signatures are an important feature that allow transferring custodianship over your tokens to someone else (a bank or an exchange manages your tokens), collective management of assets (in cases of collective ownership of the same asset or collective management as in the case of a DAO, Decentralized Autonomous Organization), or social key recovery. Chapters 3 and 4 of this book will deep-dive into the aspects of token management and token use cases, where the role of wallets will become more tangible.
 
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+***
+![DigitalSignatures BlockchainWallets](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/03_DigitalSignatures_BlockchainWallets.png)
+***
 
 
 
