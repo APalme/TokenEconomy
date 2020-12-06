@@ -26,18 +26,9 @@ Atomic swaps require that (i) both parties to the swap need to download the ledg
 
 While atomic swaps enable P2P swapping of tokens, they do not resolve the coincidence-of-wants problem. They will only be useful to people who know other people willing to buy the exact amount of tokens one wants to sell at exactly the same time one wants to sell them. The likeliness of this happening for retail investors is quite low. Decentralized exchanges using atomic swaps, however, could resolve both problems.
 
-
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-
-
+***
+![Atomic Swaps](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/24_AtomicSwaps.png)
+***
 
 ## Decentralized Exchanges
 
