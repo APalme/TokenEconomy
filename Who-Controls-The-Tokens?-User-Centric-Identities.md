@@ -147,67 +147,129 @@ Selected Web3-based identity solutions are:  “[Ageify](https://age-ify.com/),�
 
 ### Chapter References & Further Reading
 _* Allan, Christoper: “The Path to Self-Sovereign Identity,” March 1 2017, [https://github.com/ChristopherA/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md](https://github.com/ChristopherA/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md)_
+
 _* Ellison,[ ](http://irl.cs.ucla.edu/index.html)Carl: “Establishing Identity without Certification Authority,” 1996, [https://irl.cs.ucla.edu/index.html](https://irl.cs.ucla.edu/index.html) _
+
 _* Feisthammel, Patrick: “[Pretty good Privacy, PGP](https://www.rubin.ch/pgp/weboftrust.en.html), Web of Trust,” Oct 7 2004, [https://www.rubin.ch/pgp/weboftrust.en.html](https://www.rubin.ch/pgp/weboftrust.en.html)_
+
 _* Jordan, Ken; Hauser, Jan; Foster, Steven: “The Augmented Social Network,” White paper, 2000, [https://firstmonday.org/ojs/index.php/fm/article/view/1068/988](https://firstmonday.org/ojs/index.php/fm/article/view/1068/988) _
+
 _* Kameron, Kim: “The Laws of Identity,” March 2007, [https://docs.microsoft.com/en-us/previous-versions/dotnet/articles/ms996456(v=msdn.10)?redirectedfrom=MSDN](https://docs.microsoft.com/en-us/previous-versions/dotnet/articles/ms996456(v=msdn.10)?redirectedfrom=MSDN)_
+
+
 _* Kütt, Andres: "MyData Webinar #5: Identity in the Digital Era," Mydata Global, Youtube Video, retrieved from: [https://www.youtube.com/watch?v=XjzJeys7PvM&fbclid=IwAR0qMDGYuZVk0c6aDHOX46AdFQMGdsI24SSZ6-lMfj7XZY-TrbkbT5LFlqk](https://www.youtube.com/watch?v=XjzJeys7PvM&fbclid=IwAR0qMDGYuZVk0c6aDHOX46AdFQMGdsI24SSZ6-lMfj7XZY-TrbkbT5LFlqk)_
+
 _* Many authors: “[Rebooting the Web of Trust](http://www.weboftrust.info/papers.html),” Papers and Specs, [http://www.weboftrust.info/papers.html](http://www.weboftrust.info/papers.html)_
+
 _* Many authors: “Charta for Digital Human Rights,” Version: 01.12.2016 Unofficial English translation of the German original text, published by ZEIT-Stiftung Ebelin und Gerd Bucerius [https://digitalcharta.eu/wp-content/uploads/2016/12/Digital-Charta-EN.pdf](https://digitalcharta.eu/wp-content/uploads/2016/12/Digital-Charta-EN.pdf)_
+
 _* Many authors: “Self-sovereign Identity A position paper on blockchain enabled identity and the road ahead,”  October 23 2018, Identity Working Group of the German Blockchain Association, [https://www.bundesblock.de/wp-content/uploads/2019/01/ssi-paper.pdf](https://www.bundesblock.de/wp-content/uploads/2019/01/ssi-paper.pdf)_
+
 _* Many authors: “The Respect Trust Framework, “ Version 2.1,  Feb 2016,  [https://oixnet.org/wp-content/uploads/2016/02/respect-trust-framework-v2-1.pdf](https://oixnet.org/wp-content/uploads/2016/02/respect-trust-framework-v2-1.pdf)_
+
 _* Marlinspike, Moxie: “Sovereign Source Authority,” Moxytongue, Feb 2012, [https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html)_
+
 _* Miller, Ron: "[The Promise of managing identities on the blockchain](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BknkLT7NkR5Cex9bx3zogKg%3D%3D),” Sep 10, 2017, [https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BknkLT7NkR5Cex9bx3zogKg%3D%3D&guccounter=1](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BknkLT7NkR5Cex9bx3zogKg%3D%3D&guccounter=1)_
+
 _* Mire, Sam: “Blockchain Research Technologies Blockchain For Identity Management: 7 Possible Use Cases” Dec 5 2018, [https://www.disruptordaily.com/blockchain-use-cases-identity-management/](https://www.disruptordaily.com/blockchain-use-cases-identity-management/)_
+
 _* N.N.: “Enterprise Ethereum Blockchain in Digital Identity,” Consensys website, [https://consensys.net/blockchain-use-cases/digital-identity/#usecases](https://consensys.net/blockchain-use-cases/digital-identity/#usecases)_
+
 _* N.N.: “Identity Management with Blockchain: The Definitive Guide (2020 Update),”  TYKN website: [https://tykn.tech/identity-management-blockchain/](https://tykn.tech/identity-management-blockchain/)_
+
 _* Preukschat, Alex; Reed , Drummond: "Self-Sovereign Identity Decentralized Digital Identity and Verifiable Credentials" MEAP began December 2019  Publication in January 2021 (estimated) ISBN 9781617296598  300 pages (estimated), electronically retrieved from:[https://www.manning.com/books/self-sovereign-identity](https://www.manning.com/books/self-sovereign-identity)_
+
 _* Reed, Drummond; Tobin, Andrew: “[Sovereign White Paper](https://sovrin.org/wp-content/uploads/2017/07/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf),” Sept 29 2016, [https://sovrin.org/wp-content/uploads/2017/07/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf](https://sovrin.org/wp-content/uploads/2017/07/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)_
+
 _* Reed, Drummond; Sabadello, Markus: "Chapter 8 Decentralized identifiers" in Self Sovereign Identity, retrieved from on October 27, 2020: in [https://livebook.manning.com/book/self-sovereign-identity/chapter-8](https://livebook.manning.com/book/self-sovereign-identity/chapter-8)_
 _* Ruff, Timothy: "When Explaining SSI, Start with the Wallet," Apr 21 2020, [https://medium.com/@rufftimo/when-explaining-ssi-start-with-the-wallet-bee5d2af6696](https://medium.com/@rufftimo/when-explaining-ssi-start-with-the-wallet-bee5d2af6696)_
+
 _* Sabadello, Markus: “Human Rights in the Information Society,” 2011, [https://danubetech.com/download/Human-Rights-in-the-Information-Society.pdf](https://danubetech.com/download/Human-Rights-in-the-Information-Society.pdf)_
+
 _* Shea, Michael;Smith, Samuel M.; Stöcker,Carsten, Caballero, Juan; Condon, Matt G.: “Decentralized Identity as a Meta-platform: How Cooperation Beats Aggregation a white paper from Rebooting the Web of Trust IX, [https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot9-prague/blob/master/final-documents/CooperationBeatsAggregation.pdf](https://github.com/SmithSamuelM/rwot9-prague.githttps://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot9-prague/blob/master/final-documents/CooperationBeatsAggregation.pdf)_
+
 _* Spike, Marlin: “Self Sovereign Identity, how the term has evolved,” Feb 2016, [https://www.moxytongue.com/2016/02/self-sovereign-identity.html](https://www.moxytongue.com/2016/02/self-sovereign-identity.html)_
+
 _* Smith, Samuel M.: "Key Event Receipt Infrastructure (KERI)", Cornell University, retrieved from: [https://arxiv.org/abs/1907.02143](https://arxiv.org/abs/1907.02143)_
+
 _* Smolenski, Natalie: ”The EU General Data Protection Regulation and the Blockchain,” Aug 2 2017, [https://medium.com/learning-machine-blog/the-eu-general-data-protection-regulation-and-the-blockchain-1f1d20d24951](https://medium.com/learning-machine-blog/the-eu-general-data-protection-regulation-and-the-blockchain-1f1d20d24951)_
+
 _* Stöcker, Carsten: “The Economic Value of Decentralized Identity — Part 2 Reimagining the economics of trust and reputation,” Mar 11 2020, [https://medium.com/spherity/the-economic-value-of-decentralized-identity-part-2-733aa977eaf8](https://medium.com/spherity/the-economic-value-of-decentralized-identity-part-2-733aa977eaf8)_
+
 _* Stöcker, Carsten: “Spherity’s Identity Tech Predictions for the decade of the 2020’s — Part 1,” Jan 16 2020 [https://medium.com/spherity/spheritys-identity-tech-predictions-for-the-decade-of-the-2020-s-part-1-410bc9b48be4](https://medium.com/spherity/spheritys-identity-tech-predictions-for-the-decade-of-the-2020-s-part-1-410bc9b48be4)_
+
 _* Stöcker, Carsten: “Spherity’s Identity Tech Predictions for the decade of the 2020’s — Part 2,” Feb 13 2020 [https://medium.com/spherity/spheritys-identity-tech-predictions-for-the-decade-of-the-2020-s-part-2-6e480d2a57ea](https://medium.com/spherity/spheritys-identity-tech-predictions-for-the-decade-of-the-2020-s-part-2-6e480d2a57ea)_
+
 _* Stöcker, Carsten: “SSI201: Upgrading products with intelligent serial numbers and DIDs How smart can an object’s identifier be? How can it enable cradle-to-grave traceability and other innovative capabilities?” Nov 26, 2019 ·, [https://medium.com/spherity/ssi201-upgrading-products-with-intelligent-serial-numbers-and-dids-78da623b91dd](https://medium.com/spherity/ssi201-upgrading-products-with-intelligent-serial-numbers-and-dids-78da623b91dd)_
+
 _* Stöcker, Karsten: "KERI: A more Performant Ledger for Trusted Identities Securing the control of decentralized identifiers at the root with ambient verifiability", Medium, Sperity Blog, July 2 2020, [https://medium.com/@cstoecker](https://medium.com/@cstoecker)_
+
 _* Voshmgir, Shermin: “Identity as a Bottleneck for Blockchain,” Oct 17, 2017, [https://stories.jolocom.com/identity-blockchain-the-road-to-self-sovereign-identity-f9f4439c52cb](https://stories.jolocom.com/identity-blockchain-the-road-to-self-sovereign-identity-f9f4439c52cb)_
+
 _* Voshmgir, Shermin: “Self Sovereign — Identity vs Data?” Feb 27 2018, [https://stories.jolocom.com/self-sovereign-identity-vs-data-5abe5947a62](https://stories.jolocom.com/self-sovereign-identity-vs-data-5abe5947a62)_
+
 _* Wikipedia contributors: "Pretty Good Privacy," Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Pretty_Good_Privacy&oldid=959437666 (accessed May 31, 2020)._
+
 _* Zuboff, Shoshana: “ The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power.” New York: PublicAffairs, 2019._
+
 _* Ageif: [https://age-ify.com/](https://age-ify.com/)_
+
 _* Civic: [https://www.civic.com/wallet/](https://www.civic.com/wallet/)_
+
 _* Edge: https://edge.app/_
+
 _* General Data Protection Regulation (GDPR): [https://gdpr-info.eu/](https://gdpr-info.eu/)_
+
 _* Hu-manity.co: [https://hu-manity.co/](https://hu-manity.co/)_
+
 _* Jolocom: [https://jolocom.io/](https://jolocom.io/)_
+
 _* Keyp: [https://keyp.io/](https://keyp.io/)_
+
 _* List of Blockchain & Identity Solutions: [https://github.com/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)_
+
 _* Madana: [https://www.madana.io/](https://www.madana.io/)_
+
 _* Metadium: [https://www.metadium.com/](https://www.metadium.com/)_
+
 _* NewBanking Identity: [https://newbanking.com/#/](https://newbanking.com/#/)_
+
 _* ObjectTech: [https://www.objectivetgg.com/](https://www.objectivetgg.com/)_
+
 _* THEKEY: [https://www.thekey.vip/#/homePage](https://www.thekey.vip/#/homePage)_
+
 _* Trusti: [https://trusti.com/](https://trusti.com/)_
+
 _* PeerMountain: [https://www.peermountain.com/](https://www.peermountain.com/)_
+
 _* PGP WOT: [https://www.linux.com/training-tutorials/pgp-web-trust-core-concepts-behind-trusted-communication/](https://www.linux.com/training-tutorials/pgp-web-trust-core-concepts-behind-trusted-communication/)_
+
 _* Rebooting the Web of Trust:[http://www.weboftrust.info/papers.html](http://www.weboftrust.info/papers.html)_
+
 _* REMME: [https://remme.io/](https://remme.io/)_
+
 _* Riddle & Code: [https://www.riddleandcode.com/](https://www.riddleandcode.com/)_
+
 _* Spherity: [https://spherity.com/](https://spherity.com/)_
+
 _* SPKI/SDSI project: [http://world.std.com/~cme/html/spki.html](http://world.std.com/~cme/html/spki.html)_
+
 _* SoLid (Social Linked Data: [https://github.com/solid/solid-spec](https://github.com/solid/solid-spec)_
+
 _* uPort: [https://www.uport.me/](https://www.uport.me/)_
+
 _* UniquID: [https://uniquid.com/](https://uniquid.com/)_
+
 _* ValidatedID: [https://www.validatedid.com](https://www.validatedid.com/)_
+
 _* WebIDs: [https://www.w3.org/2005/Incubator/webid/spec/tls/](https://www.w3.org/2005/Incubator/webid/spec/tls/)_
+
 _* WoTT: [https://wott.io/](https://wott.io/)_
+
 _* W3C working group on verifiable claims: [https://www.w3.org/2017/vc/WG/](https://www.w3.org/2017/vc/WG/)_
+
 _* W3C Verifiable Claims Task Force FAQ: [https://w3c.github.io/webpayments-ig/VCTF/charter/faq.html](https://w3c.github.io/webpayments-ig/VCTF/charter/faq.html)_
+
 _* W3C initiative of Decentralized Identifiers (DIDs): [https://w3c.github.io/did-core](https://w3c.github.io/did-core/)_
 
 
