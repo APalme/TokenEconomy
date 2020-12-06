@@ -13,11 +13,7 @@ The concept of a “chain-of-blocks” was introduced in the Bitcoin white paper
 
 **<span style="text-decoration:underline;">Tokens</span>**: The term “token” is simply a metaphor. Contrary to what the metaphor might suggest, a token does not represent a digital file that is sent from one device to the other. Instead, it manifests as an entry in the ledger that belongs to a blockchain address. Only the person who has the private key for that address can access the respective tokens, using a wallet software, which acts as a  blockchain client (read more: Part 1 - Token Security: Cryptography, Wallets.) 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+![Why Is It Called Blockchain](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/01_WhyIsItCalledBlockchain.png)
 
 
 <span style="text-decoration:underline;">Unlike distributed databases</span>, where data is distributed but managed and controlled by one single entity, blockchain networks allow for distributed control. Different people and institutions that do not trust each other share information without requiring a central administrator.
@@ -28,14 +24,8 @@ The concept of a “chain-of-blocks” was introduced in the Bitcoin white paper
 
 **<span style="text-decoration:underline;">Bitcoin Transactions</span>**: When using the Bitcoin network, instead of a bank validating financial transactions, all computers in the network check their copies of the ledger for validity of the transaction, and collectively confirm transactions by majority consensus. No user is trusted more than any other. Instead of a single trusted third party validating transactions through their servers with authority (single vote), a P2P network of computers running the blockchain protocol validates transactions by consensus (majority vote).
 
- 
+![Why is it expensive to manipulate blockchain network transactions] (https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/02_WhyExpensiveToManipulateNetworktrans.png)
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
 
 
 The protocol is a set of rules and processes that define how all the (anonymous) nodes in the network can reach an agreement on the true state of the network. The protocol defines how the participants in the network interact with each other: (i) under which conditions sending tokens from A to B is valid; (ii) the economic rewards for validating transactions with a cryptographic token; (iii) how to reference identities and sign transactions; and (iv) who decides over network upgrades.
@@ -61,16 +51,7 @@ For the first time in the history of distributed computing, the Bitcoin protocol
 
 However, security depends on the resilience of the assumptions made on how network actors will react to economic incentives. How people react to incentives has long been a field of study in economics. Cryptoeconomics therefore has much in common with mechanism design, a field of economics related to game theory. Game theory analyzes strategic interactions, which are referred to as games. It tries to understand the best strategies for each player if both players maximize the best outcome for themselves. Mechanism design defines desirable outcomes and works backward to create a game that incentivizes players toward that desired outcome. While cryptoeconomics is interdisciplinary, it is a discipline that was predominantly developed in the computer science community. It seems that there is still much room to incorporate methods from various economic disciplines, and other disciplines (more in the next chapter and in Part 4 - Purpose-Driven Tokens).
 
-
-
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
-
+![Blockchain Concept](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/11_BlockchainConcept.png)
 
 
 “Proof-of-Work” (PoW) is the consensus mechanism used in the Bitcoin network and similar blockchain networks to guarantee that a token transaction sent over the network is valid. The mechanism builds on the assumption that all network nodes could potentially be corrupt, and that the least common denominator is money. Proof-of-Work is designed in a way that (i) if you spend money and play by the rules, you can earn network tokens; (ii) it doesn’t pay to cheat because mining requires special-purpose computer hardware and consumes large amounts of power.
@@ -84,13 +65,8 @@ Finding the correct hash value requires some work, in the form of the processing
 The “difficulty” of finding that hash value, and therefore creating a block, adjusts over time in order to keep the interblock-time of 10 minutes[^2]  relatively constant. It is adjusted periodically as a function of how much hashing power has been deployed by the network of miners. If blocks are created in less time than 10 minutes, difficulty increases. Likewise, if blocks take longer than 10 minutes to be created, difficulty decreases. Difficulty also increases with the level of competition—the number of other computers competing to validate a block.
 
 
+![Public Ledgers vs. Private Ledgers](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/12_PublicPrivateLedgers.png)
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
 
 
 ## Network Nodes
@@ -123,12 +99,9 @@ A successful 51 percent attack could have the following impact: It would allow y
 What a 51 percent attack cannot do is change existing transactions or fake transactions, like: (i) changing the amount sent in an existing transaction; (ii) changing the recipient of an existing transaction; or (iii) sending someone’s tokens without their approval. This is because all transactions need to be signed with the private key of the token owner, which cannot be revealed by majority agreement of the network. Changing a detail in an existing transaction would render the ledger “illegitimate,” as a transaction without a valid signature would be in it. These types of manipulations can only be achieved by brute-forcing the private-keys of a network actor. Alternatively, one could also break the cryptographic algorithm (SHA) to attack the network, which is why it is essential to use cryptographic algorithms that have been properly stress-tested (read more: Part 1 - Token Security: Cryptography).
 
 
+![How Blocks Of Transactions Are Chained](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/14a_HowBlocksOfTransactionsAreChained.png)
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-
+![Why is the ledger tamper resistant?](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/14b_WhyIsLedgerTamperResistant.png)
 
 
 ## Protocol Forks & Network Splits
@@ -165,15 +138,6 @@ Public networks use cryptoeconomic mechanisms (trust by math) to keep the networ
 Blockchain protocols and similar distributed ledgers operate on top of the Internet and can be conceptualized in several components: (i) physical network: represented by a P2P network of computers that run the same protocol; (ii) protocol: defines the network rules and enforces them by  consensus[^6] of all network nodes. This includes economic incentives tied to the native token; (iii) ledger: managing all assets in the form of a shared and public ledger of all transactions from the genesis block until today; (iv) identification & addressing: Assets belong to identities which need to be addressed so we can transfer values from one to another. These identities can be more or less anonymous, depending on the types of cryptographic algorithms used; in the case of the smart contract networks like Ethereum the (v) smart contracts manage the relationships of the involved actors, and represent the business or governance logic. 
 
 
-    
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
-
-
-
 ## Alternative Consensus Mechanisms to PoW
 
 Bitcoin’s Proof-of-Work is groundbreaking, but it comes at a cost. While it guarantees security in an untrusted network, it is slow, energy intense, and favors those who have more economic resources to spend. This is why many researchers and developers started to explore alternative consensus mechanisms to try to tackle some of Bitcoin’s major challenges. The research questions that need to be resolved are:
@@ -199,15 +163,6 @@ The “[Peercoin](https://peercoin.net/)” network was the first project to int
 **<span style="text-decoration:underline;">Directed Acyclic Graphs</span>**: Furthermore, there is a whole series of protocols that use [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph), such as “[IoT Chain](https://iotchain.io/),” “[Byteball](https://obyte.org/),” “[Nano](https://docs.nano.org/)” ([Block Lattice](https://docs.nano.org/integration-guides/the-basics/#block-lattice-design)), and [IOTA](https://www.iota.org) ([Tangle](https://www.iota.org/research/meet-the-tangle)). The consensus mechanism of DAGs is fundamentally different from blockchains. Instead of bundling data together into blocks that are then confirmed one after another, Directed Acyclic Graphs require newly added data to reference and validate past data. Usually, each new transaction would have to reference and validate two transactions that came before. In doing so, the network comes to form a graph of converging and confirmed transactions. If a node incorrectly validates a past transaction, that node’s transaction would fail to be confirmed by other participants.
 
 Explaining each of the consensus mechanisms listed above in detail is beyond the scope of this book and would require one or several dedicated publications. Literature on these protocols in the context of distributed ledgers is still scarce but growing. However, many of these protocols are still in a conceptual stage, without proper documentation. In many cases they are implemented by one project only, sometimes without being properly researched, or without having undergone the academic peer-review process.
-
-
-
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
 
 
 ## With or without a Token?
