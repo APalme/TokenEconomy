@@ -13,20 +13,7 @@ In this context, blockchain networks seem to be a driving force of the next-gene
 While the Web2 was a front-end revolution, the Web3 is a backend revolution. The Web3 reinvents how the Internet is wired in the backend, combining the system functions of the Internet with the system functions of computers. However, nothing much will change on the front-end of the Internet for the average user. The Web3 represents a set of protocols, with distributed ledgers as their backbone. Data is collaboratively managed by a P2P network of computers. The management rules are formalized in the protocol and secured by majority consensus of all network participants, who are incentivized with a network token for their activities. The protocol formalizes the governance rules of the network and ensures that people who do not know or trust each other reach and settle agreements over the Web. While trying to manipulate data on a server resembles breaking into a house, where security is provided by a fence and an alarm system, the Web3 is designed in a way that you would need to break into multiple houses around the globe simultaneously, which each have their own fence and alarm system. This is possible but prohibitively expensive. 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
-
+![alt text] (https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/10_ClientServer_DataMon_DataDemocracy_CentralizedvsDistributed.png)
 
 
 ## Blockchain: A Stateful Protocol
