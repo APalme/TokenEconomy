@@ -79,16 +79,6 @@ _* Alice can now pick up the car in the specified garage, protected by a smart l
 ***
 
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
-
-
-
 Using smart contracts, we can now avoid manual interference of certain institutions like motor vehicle authorities, insurance companies, and in some countries, also notaries, if and when the regulatory environments permit it. Every computer running the blockchain protocol will be able to check whether someone is the rightful owner of a car or not. Stealing cars won’t be as easy as it is today, once cars are equipped with digital keys using smart contracts for access control. Certain automated processes will also require the convergence of smart contracts with data feeds from external software and hardware, as would be the case of pictures taken in the garage to monitor the state of the car. As the owner of the car, you could furthermore use smart contracts to authorize other people to drive your car, registering their blockchain identity with the smart contract of your car. 
 
 Smart contract security is an important issue for widespread adoption of use cases: (i) Oracle security: making sure that data coming from off-chain sources can be trusted; (ii) Secure coding and formal verification: computer-aided checking and testing of code with respect to behavioral specifications; (iii) Procedural security and dispute settlement: additional on-chain and off-chain mechanisms to resolve complaints or unforeseen situations arising from the runtime usage of smart contracts. Alternative smart contract programming languages to the ones that are in use today might be an interesting aspect to tackle, both from a security point of view and from a market adoption point of view. The merging of smart contracts and legal contracts is another important question that will require cross-disciplinary research and development. Furthermore, smart contracts should be designed in a way where personalized data is only revealed to those actors involved in the process who need to know explicit information. Smart contracts will need to be compliant with privacy-preserving regulations (privacy by design).
