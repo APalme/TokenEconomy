@@ -2,7 +2,7 @@ Welcome to the TokenEconomyBook wiki!
 
 **Table of Contents**
 ----
-*[[Imprint]]
+*[[00 Imprint]]
 
 *[[About the Book]]
 
