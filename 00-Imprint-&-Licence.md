@@ -13,3 +13,6 @@ Ebook layout: Shermin Voshmgir <br>
 
 A ebook edition is available under ISBN: 978-3-9821038-3-9 <br>
 A print edition is available under ISBN: 978-3-9821038-1-5
+
+Copyleft 2020, Shermin Voshmgir: Creative Commons – CC BY-NC-SA<br>
+This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. For commercial permissions contact: hello@token.kitchen
