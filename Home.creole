@@ -4,7 +4,7 @@ Welcome to the TokenEconomyBook wiki!
 
 
 
-[[0.1. Imprint]]
+* [[0.1. Imprint]]
 
 [[0.2. About the Book]]
 
@@ -14,7 +14,7 @@ Welcome to the TokenEconomyBook wiki!
 
 [[0.5. Tables & Figures]]
 
-[[1. Web3 Basics]]
+*** [[1. Web3 Basics]]**
 
 [[1.1. Tokenized Networks: Web3, the Stateful Web]]
 
@@ -62,7 +62,7 @@ Welcome to the TokenEconomyBook wiki!
 
 [[4.6. How to Design a Token System]]
 
-[[5. Annex]]
+***[[5. Annex]]**
 
 [[5.1. Origins of Bitcoin & the Web3]]
 
