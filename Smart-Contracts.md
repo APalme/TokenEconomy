@@ -9,12 +9,9 @@ Although the concept of smart contracts is not new, blockchain networks seem to 
 
 A smart contract is a self-enforcing agreement, formalized as a software. The code contains a set of rules under which the parties of that smart contract agree to interact with each other. If and when the predefined rules are met, the agreement is automatically enforced by majority consensus of the blockchain network. Smart contracts provide mechanisms for efficiently managing tokenized assets and access rights between two or more parties. One can think of it like a cryptographic box that unlocks value or access, if and when specific predefined conditions are met. Smart contracts therefore provide a public and verifiable way to embed governance rules and business logic in a few lines of code, which can be audited and enforced by the majority consensus of a P2P network.
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+***
+![Smart Contracts](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/05_SmartContracts.png) 
+***
 
 
 A smart contract can be invoked from entities within (other smart contracts) and outside (external data sources) a blockchain network. External data feeds, so-called “oracles,” inject data that is relevant to the smart contract from the off-chain world into the smart contract. They can track performance of the agreement in real time and can therefore save costs, as compliance and controlling happen on the fly. Smart contracts reduce the transaction costs of agreements. Specifically, they reduce the costs of (i) reaching an agreement, (ii) formalization, and (iii) enforcement. If implemented correctly, smart contracts could provide transaction security superior to traditional contract law, thereby reducing coordination costs of auditing and enforcement of such agreements. Smart contracts also bypass the principal-agent dilemma[^1] of organizations, providing more transparency and accountability, and reducing bureaucracy (read more: Part 2 - Institutional Economics of DAOs).
@@ -22,18 +19,6 @@ A smart contract can be invoked from entities within (other smart contracts) and
 The term “smart contract” itself is a bit unfortunate, since smart contracts are neither particularly smart nor do they reflect legal contracts: (i) A smart contract can only be as smart as the people coding it, taking into account all available information at the time of coding; (ii) While smart contracts might have the potential to enforce legal contracts if certain conditions are met, we first need to resolve many techno-legal questions, which will require time and interdisciplinary discourse between lawyers and software developers.
 
 Furthermore, smart contract security is still an issue that needs to be resolved on a technical level. More sophisticated contractual clauses need to be implemented to make smart contracts compliant with legal contracts, including decentralized dispute settlement mechanisms. While such developments might take more time to mature, some interesting dispute-resolution solutions are already under development, examples of which are “[Kleros](https://kleros.io/),” “[Openlaw](https://openlaw.io/),” or “[Jur](https://jur.io/).” We will probably see a fusion of legal contracts and smart contracts emerge over the next few years. At the time of writing this book, best practices are still rare and will require a collective learning process. The technology is still nascent, and legal standards need to be adopted. 
-
-
-### 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
-
-
-### 
 
 
 ## Industry Use Cases
@@ -87,11 +72,11 @@ _* Bob can now park his car in the garage. His car, which also has a unique iden
 
 _* Alice can now pick up the car in the specified garage, protected by a smart lock connected to the blockchain and managed by the smart contract that both Bob and Alice use. She can unlock the garage with her private key, which identifies her as the rightful owner of the car. The car is hers, it is registered to her name, and it has insurance._
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+***
+![Buying a second hand car in the Web2](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/07_BuyingCarWeb2.png) 
+***
+![Buying a second hand car in the Web3](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/08_BuyingCarWeb3.png) 
+***
 
 
 
