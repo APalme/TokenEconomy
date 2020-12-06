@@ -12,9 +12,9 @@ In this context, blockchain networks seem to be a driving force of the next-gene
 
 While the Web2 was a front-end revolution, the Web3 is a backend revolution. The Web3 reinvents how the Internet is wired in the backend, combining the system functions of the Internet with the system functions of computers. However, nothing much will change on the front-end of the Internet for the average user. The Web3 represents a set of protocols, with distributed ledgers as their backbone. Data is collaboratively managed by a P2P network of computers. The management rules are formalized in the protocol and secured by majority consensus of all network participants, who are incentivized with a network token for their activities. The protocol formalizes the governance rules of the network and ensures that people who do not know or trust each other reach and settle agreements over the Web. While trying to manipulate data on a server resembles breaking into a house, where security is provided by a fence and an alarm system, the Web3 is designed in a way that you would need to break into multiple houses around the globe simultaneously, which each have their own fence and alarm system. This is possible but prohibitively expensive. 
 
-![Histroy of the Web](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/13_HistroyOfWeb.png)<!-- .element height="50%" width="50%" -->
+![Histroy of the Web](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/13_HistroyOfWeb.png) 
 
-![Web2 vs. Web3 Applications](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/15_Web2vsWeb3-.png){:height="50%" width="50%"}
+
 
 ## Blockchain: A Stateful Protocol
 
@@ -30,7 +30,8 @@ The Bitcoin network introduced a mechanism for each node in a network to send an
 
 Blockchain networks, such as the Bitcoin network, are only the backbone, and the starting point, but not the only building block in this new decentralized Web. The Web3 architecture leverages the collectively maintained universal state for decentralized computing. Decentralized applications can manage some or all of their content and logic by a blockchain network or other distributed ledger. But other protocols are also needed. Many developers have started to build alternative blockchain networks, as well as complementary protocols for the Web3. 
 
-![Centralized vs. Distributed](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/10_ClientServer_DataMon_DataDemocracy_CentralizedvsDistributed.png)<!-- .element height="50%" width="50%" -->
+![Centralized vs. Distributed](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/10_ClientServer_DataMon_DataDemocracy_CentralizedvsDistributed.png)
+
 
 ## Other Web3 Protocols
 
@@ -44,14 +45,7 @@ One of the most pressing applied research questions when developing complementar
 
 While decentralized architectures are more resilient than their centralized Web2 predecessors, they are also slower. Speed, performance, and usability are bottlenecks in the Web3 that will very likely be resolved over time, once the core components of the Web3 are up and running (read more: Annex - Scalability). It is likely that the future of the Internet will be more decentralized, however, this does not mean that we will get rid of centralized systems altogether. Centralized systems have advantages and will likely prevail, at least for specific use cases.
 
-
- 
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+![Web2 vs. Web3 Applications](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/15_Web2vsWeb3-.png)
 
 
 
