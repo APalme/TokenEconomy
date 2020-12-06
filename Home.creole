@@ -1,19 +1,16 @@
 Welcome to the TokenEconomyBook wiki!
 
 **Table of Contents**
-
-
 ----
+*[[Imprint]]
 
-[[Imprint]]
+*[[About the Book]]
 
-[[About the Book]]
+*[[How to Read This Book]]
 
-[[How to Read This Book]]
+*[[Introduction]]
 
-[[Introduction]]
-
-[[Tables & Figures]]
+*[[Tables & Figures]]
 
 **[[Web3 Basics]]**
 
@@ -25,43 +22,43 @@ Welcome to the TokenEconomyBook wiki!
 
 *[[Who Controls The Tokens? User-Centric Identities]]
 
-[[Web3 Applications]]
+**[[Web3 Applications]]
 
-**[[Smart Contracts]]**
+*[[Smart Contracts]]**
 
-[[Institutional Economics of Web3 Networks & other DAOs]]
+*[[Institutional Economics of Web3 Networks & other DAOs]]
 
-[[ Governance of Web3 Networks & Other DAOs]]
+*[[ Governance of Web3 Networks & Other DAOs]]
 
-[[ Tokens]]
+*[[ Tokens]]
 
 **[[ Token Economics & Decentralized Finance]]**
 
-[[ The Future of Money & Decentralized Finance (DeFi)]]
+*[[ The Future of Money & Decentralized Finance (DeFi)]]
 
-[[ Stable Tokens]]
+*[[ Stable Tokens]]
 
-[[ Privacy Tokens]]
+*[[ Privacy Tokens]]
 
-[[ Trading Tokens, Atomic Swaps & DEX]]
+*[[ Trading Tokens, Atomic Swaps & DEX]]
 
-[[ Lending Tokens - Decentralized Credit Systems]]
+*[[ Lending Tokens - Decentralized Credit Systems]]
 
-[[ Token Sales:ICOs, ITOs, IEOs, STOs]]
+*[[ Token Sales:ICOs, ITOs, IEOs, STOs]]
 
 **[[ Token Use Cases]]**
 
-[[ Asset Tokens & Fractional Ownership]]
+*[[ Asset Tokens & Fractional Ownership]]
 
-[[ Purpose-Driven Tokens]]
+*[[ Purpose-Driven Tokens]]
 
-[[ Steemit, Hive & Reddit: Tokenized Social Networks]]
+*[[ Steemit, Hive & Reddit: Tokenized Social Networks]]
 
-[[ Basic Attention Token: Advertising Reinvented]]
+*[[ Basic Attention Token: Advertising Reinvented]]
 
-[[ Token Curated Registries - The New Search?]]
+*[[ Token Curated Registries - The New Search?]]
 
-[[ How to Design a Token System]]
+*[[ How to Design a Token System]]
 
 **[[Annex]]**
 
