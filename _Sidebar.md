@@ -1,67 +1,67 @@
-*[[Imprint & Licence]]
+[[Imprint & Licence]]
 
-*[[About the Book]]
+[[About the Book]]
 
-*[[How to Read This Book]]
+[[How to Read This Book]]
 
-*[[Aknowledgements]]
+[[Aknowledgements]]
 
-*[[Tables & Figures]]
+[[Tables & Figures]]
 
-*[[Introduction]]
+[[Introduction]]
 
 **[[Web3 Basics]]**
 
-*[[Tokenized Networks: Web3, the Stateful Web]]
+[[Tokenized Networks: Web3, the Stateful Web]]
 
-*[[Keeping Track of the Tokens: Bitcoin, Blockchain, & Other Distributed Ledgers]]
+[[Keeping Track of the Tokens: Bitcoin, Blockchain, & Other Distributed Ledgers]]
 
-*[[Token Security: Cryptography]]
+[[Token Security: Cryptography]]
 
-*[[Who Controls The Tokens? User-Centric Identities]]
+[[Who Controls The Tokens? User-Centric Identities]]
 
-**[[Web3 Applications]]
+**[[Web3 Applications]]**
 
-*[[Smart Contracts]]**
+[[Smart Contracts]]
 
-*[[Institutional Economics of Web3 Networks & other DAOs]]
+[[Institutional Economics of Web3 Networks & other DAOs]]
 
-*[[ Governance of Web3 Networks & Other DAOs]]
+[[ Governance of Web3 Networks & Other DAOs]]
 
-*[[ Tokens]]
+[[ Tokens]]
 
 **[[ Token Economics & Decentralized Finance]]**
 
-*[[ The Future of Money & Decentralized Finance (DeFi)]]
+[[ The Future of Money & Decentralized Finance (DeFi)]]
 
-*[[ Stable Tokens]]
+[[ Stable Tokens]]
 
-*[[ Privacy Tokens]]
+[[ Privacy Tokens]]
 
-*[[ Trading Tokens, Atomic Swaps & DEX]]
+[[ Trading Tokens, Atomic Swaps & DEX]]
 
-*[[ Lending Tokens - Decentralized Credit Systems]]
+[[ Lending Tokens - Decentralized Credit Systems]]
 
-*[[ Token Sales:ICOs, ITOs, IEOs, STOs]]
+[[ Token Sales:ICOs, ITOs, IEOs, STOs]]
 
 **[[ Token Use Cases]]**
 
-*[[ Asset Tokens & Fractional Ownership]]
+[[ Asset Tokens & Fractional Ownership]]
 
-*[[ Purpose-Driven Tokens]]
+[[ Purpose-Driven Tokens]]
 
-*[[ Steemit, Hive & Reddit: Tokenized Social Networks]]
+[[ Steemit, Hive & Reddit: Tokenized Social Networks]]
 
-*[[ Basic Attention Token: Advertising Reinvented]]
+[[ Basic Attention Token: Advertising Reinvented]]
 
-*[[ Token Curated Registries - The New Search?]]
+[[ Token Curated Registries - The New Search?]]
 
-*[[ How to Design a Token System]]
+[[ How to Design a Token System]]
 
 **[[Annex]]**
 
-*[[ Origins of Bitcoin & the Web3]]
+[[ Origins of Bitcoin & the Web3]]
 
-*[[ Blockchain Scalability Solutions]]
+[[ Blockchain Scalability Solutions]]
 
-*[[ Libra & Celo]]
+[[ Libra & Celo]]
