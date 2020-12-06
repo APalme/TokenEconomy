@@ -14,12 +14,9 @@ This early use case of a smart contract-based DAO showed that what the Bitcoin n
 
 We are seeing many more DAOs, with a wide range of purposes, emerge on top of the Web3. Newer Web3 applications have focused on providing a plug-and-play end-to-end framework to build DAOs. The tool-set provided include elements such as constitutional frameworks, dispute-resolution frameworks, and many more, so that new DAO projects don’t have to build all organizational and institutional elements necessary from scratch. They reduce the technical costs of setting up a decentralized organization, so you can focus on what you want to build (the purpose of your network) and how you want to build it (the governance rules of your network.) Many of the projects build on top of the Ethereum network and offer a modular smart contract framework, with an easy to use user interface, that allows people without technical knowledge to create their own decentralized organization. The level of decentralization of such organizations can vary according to the needs.  Examples of such projects are “[Aragon](https://aragon.org/),” “[Bitnation](https://tse.bitnation.co/),” “[Colony](https://colony.io/),” “[Commonstack](https://commonsstack.org/),” “[DAOStack](https://daostack.io/),” or “[MolochDAO](https://www.molochdao.com/),” each of which differ in their focus, ideology, or levels of progression and success.
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+***
+![Blockchain Networks are Complex Socioeconomic Systems](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/32_CompleySystems.png) 
+***
 
 
 
@@ -35,12 +32,9 @@ Large parts of our society are organized in top-down command and control structu
 
 DAOs are open source, thus transparent, and if well designed, incorruptible. All transactions of the organization are recorded and maintained by a blockchain network. Code upgrade proposals can be made by anyone in the network, and are voted for by majority consensus of involved network actors. As such, DAOs can be seen as distributed organisms, or distributed Internet tribes, that live on the Internet and exist autonomously, but also heavily rely on specialist individuals or smaller organizations to perform certain tasks that cannot be replaced with automation. However, I would like to argue that there is no such thing as a fully decentralized and autonomous organization. Depending on the governance rules, there are different levels of decentralization. Furthermore, while the network might be geographically decentralized, with many independent but equal network actors, the governance rules written in the smart contract or blockchain protocol will always be a point of centralization and loss of direct autonomy. DAOs can be architecturally decentralized (independent actors run different nodes), and are geographically decentralized (subject to different jurisdictions), but they are logically centralized around the protocol. The question of how to upgrade the protocol, when and if necessary, is very often delegated to a set of experts who understand the techno-legal intricacies of the code, and therefore represent a point of centralization (read more: Part 2 - On-Chain vs. Off-Chain Governance).
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
+***
+![Top Down Organizations vs Decentralized Autonomous Organizations](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/09_TopDownOrgas_DAOs.png) 
+***
 
 
 Web3 networks and smart contract based DAOs are complex systems that are composed of three interdependent networks: (i) a network of computers, (ii) a network of people, (iii) a network of flow of tokens. They are adaptive socio-economic networks that are dynamic in time and space. Dynamic refers to the continued state changes of the network as a result of the actions set by their human agents (sending tokens or consuming other network services, contributing with code, or forking into another network.) Adaptive means that DAO participants constantly adapt to the network they are part of because of the feedback-loops between the individual actors and the whole network. Individual actions affect the system and as a result, the system as a whole evolves over time. Complex systems differ from other (less complex) systems, in that the system level behaviour cannot be easily concluded or predicted from the local state changes induced by individual network actors. 
@@ -61,20 +55,11 @@ In their institutional structure, Web3 networks resemble nation states much more
 Nation states are comparable to permissioned networks, rather than permissionless networks. In most countries, only citizens of said nation states have the privilege to be part of the network, or in other words, to live and work in that country. Non-citizens may receive temporary permission to enter the country or work in the country. While you can opt in and opt out, by way of immigration or emigration, this option usually comes at high personal and economic cost, and takes time. Nation states steer the actions of their citizens mostly by disincentive: when you break the law, you have to pay a fine or go to jail. Taxes can be considered as network transaction costs that citizens pay to receive government services. In some cases, national governments institute tax breaks and subsidies that act as positive incentives to “nudge” their citizens into a specific behavior. Tax policy is part of the fiscal policy of a country that, together with the policies of the central bank, decides over monetary policies, which intend to steer the network actors into certain economic behavior.
 
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
-
-
-### 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
+***
+![Institutional Economics of DAOs 1](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/26a_InstitutionalEconomicsDAOs.png) 
+***
+![Institutional Economics of DAOs 1](.png) 
+***
 
 
 
@@ -96,7 +81,6 @@ In public and permissionless blockchain networks, fiscal policy could be reflect
 
 
 ***
-
 ### Chapter Summary
 
 > Since the emergence of the Internet, a vast array of distributed Internet tribes have formed, culminating in the social media platforms of today. DAOs represent dynamic networks governed by machine-enforceable protocols. They promise more decentralized and spontaneous coordination over the Internet between users who do not know or trust each other. 
