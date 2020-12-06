@@ -13,14 +13,9 @@ While the “token engineering” community points out the necessity for rigorou
 There seems to be a growing understanding for the need of using the term “engineering” in the broader sense when designing a token system. The Web3 with its distributed ledgers and smart contracts provides a governance layer and an economic layer for the Internet. If something goes wrong, the collateral damage is high, as we have seen with “TheDAO” exploits of 2016 or the “Parity” multisignature contract exploit of 2017 that resulted in millions of Euros drained from one or more smart contracts, or the more recent DeFi Hacks of 2020. I therefore suggest that we explicitly distinguish between the “technical engineering,” “legal engineering,” “economic engineering,” and “ethical engineering” aspects of a token. 
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-
+***
+![Token Engineering](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/28_TokenEngineering.png)
+***
 
 
 ## Technical Engineering
@@ -41,17 +36,9 @@ When creating a token system, one needs to decide whether to create an infrastru
 
 * <span style="text-decoration:underline;">Standards</span>: The technical engineering process can choose from a growing list of standardized token contracts. The token standards used depend on the properties a token should have (privacy, fungibility, transferability, expiry date), and the properties depend on the purpose of the token, taking into account all economic, legal, or ethical constraints.
 
-
-### 
-
-
-### 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
+***
+![Token Engineering Aspects](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/27_TokenEngineeringAspects.png)
+***
 
 
 ## Legal Engineering
