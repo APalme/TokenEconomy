@@ -2,72 +2,75 @@ Welcome to the TokenEconomyBook wiki!
 
 **Table of Contents**
 
+Welcome to the TokenEconomyBook wiki!
 
+**Table of Contents**
 
-* [[0.1. Imprint]]
+[[Imprint]]
 
-[[0.2. About the Book]]
+[[About the Book]]
 
-[[0.3. How to Read This Book]]
+[[How to Read This Book]]
 
-[[0.4. Introduction]]
+[[Introduction]]
 
-[[0.5. Tables & Figures]]
+[[Tables & Figures]]
 
-*** [[1. Web3 Basics]]**
+**[[Web3 Basics]]**
 
-[[1.1. Tokenized Networks: Web3, the Stateful Web]]
+[[Tokenized Networks: Web3, the Stateful Web]]
 
-[[1.2. Keeping Track of the Tokens: Bitcoin, Blockchain, & Other Distributed Ledgers]]
+[[Keeping Track of the Tokens: Bitcoin, Blockchain, & Other Distributed Ledgers]]
 
-[[1.3. Token Security: Cryptography]]
+[[Token Security: Cryptography]]
 
-[[1.4. Who Controls The Tokens? User-Centric Identities]]
+[[Who Controls The Tokens? User-Centric Identities]]
 
-[[2. Web3 Applications]]
+[[Web3 Applications]]
 
-[[2.1. Smart Contracts]]
+**[[Smart Contracts]]**
 
-[[2.2. Institutional Economics of Web3 Networks & other DAOs]]
+[[Institutional Economics of Web3 Networks & other DAOs]]
 
-[[2.3. Governance of Web3 Networks & Other DAOs]]
+[[ Governance of Web3 Networks & Other DAOs]]
 
-[[2.4. Tokens]]
+[[ Tokens]]
 
-[[3. Token Economics & Decentralized Finance]]
+**[[ Token Economics & Decentralized Finance]]**
 
-[[3.1. The Future of Money & Decentralized Finance (DeFi)]]
+[[ The Future of Money & Decentralized Finance (DeFi)]]
 
-[[3.2. Stable Tokens]]
+[[ Stable Tokens]]
 
-[[3.3. Privacy Tokens]]
+[[ Privacy Tokens]]
 
-[[3.4. Trading Tokens, Atomic Swaps & DEX]]
+[[ Trading Tokens, Atomic Swaps & DEX]]
 
-[[3.5. Lending Tokens - Decentralized Credit Systems]]
+[[ Lending Tokens - Decentralized Credit Systems]]
 
-[[3.6. Token Sales:ICOs, ITOs, IEOs, STOs]]
+[[ Token Sales:ICOs, ITOs, IEOs, STOs]]
 
-[[4. Token Use Cases]]
+**[[ Token Use Cases]]**
 
-[[4.1. Asset Tokens & Fractional Ownership]]
+[[ Asset Tokens & Fractional Ownership]]
 
-[[4.2. Purpose-Driven Tokens]]
+[[ Purpose-Driven Tokens]]
 
-[[4.3. Steemit, Hive & Reddit: Tokenized Social Networks]]
+[[ Steemit, Hive & Reddit: Tokenized Social Networks]]
 
-[[4.4. Basic Attention Token: Advertising Reinvented]]
+[[ Basic Attention Token: Advertising Reinvented]]
 
-[[4.5. Token Curated Registries - The New Search?]]
+[[ Token Curated Registries - The New Search?]]
 
-[[4.6. How to Design a Token System]]
+[[ How to Design a Token System]]
 
-***[[5. Annex]]**
+**[[Annex]]**
 
-[[5.1. Origins of Bitcoin & the Web3]]
+[[ Origins of Bitcoin & the Web3]]
 
-[[5.2. Blockchain Scalability Solutions]]
+[[ Blockchain Scalability Solutions]]
 
-[[5.3. Libra & Celo]]
+[[ Libra & Celo]]
+
 
 
