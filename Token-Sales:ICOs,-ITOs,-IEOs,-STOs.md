@@ -6,18 +6,9 @@ Before launching a token sale, developers would present a so-called white paper 
 
 It is important to point out that the Bitcoin blockchain never had a token sale, and that Bitcoin tokens are continuously minted each time a block of transactions is created (read more: Part 1 - Bitcoin, Blockchain, & other DLTs, Part 4 - Purpose-Driven Tokens). As opposed to native blockchain tokens that are issued upon Proof-of-Work, and incentivize individual contributions to the network to keep it safe, token sales introduced a static mechanism for issuing tokens against a direct financial fee, before the project becomes operational. Tokens would be created only once, before the launch of the project, and issued to investors. In such a setup, a certain portion of the token supply, or the entire token supply, is released before the launch of a project, in many cases even before any code is written.
 
-
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-
-
+***
+![History of Token Sales](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/25_HistoryOfTokens.png)
+***
 
 ## History of Token Sales
 
