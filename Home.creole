@@ -8,9 +8,11 @@ Welcome to the TokenEconomyBook wiki!
 
 *[[How to Read This Book]]
 
-*[[Introduction]]
+*[[Aknowledgements]]
 
 *[[Tables & Figures]]
+
+*[[Introduction]]
 
 **[[Web3 Basics]]**
 
