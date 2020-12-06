@@ -13,8 +13,8 @@ The concept of a “chain-of-blocks” was introduced in the Bitcoin white paper
 
 **<span style="text-decoration:underline;">Tokens</span>**: The term “token” is simply a metaphor. Contrary to what the metaphor might suggest, a token does not represent a digital file that is sent from one device to the other. Instead, it manifests as an entry in the ledger that belongs to a blockchain address. Only the person who has the private key for that address can access the respective tokens, using a wallet software, which acts as a  blockchain client (read more: Part 1 - Token Security: Cryptography, Wallets.) 
 
-![Why Is It Called Blockchain](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/01_WhyIsItCalledBlockchain.png)
-
+![Why is it called Blockchain](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/01_WhyIsItCalledBlockchain.png)
+***
 
 <span style="text-decoration:underline;">Unlike distributed databases</span>, where data is distributed but managed and controlled by one single entity, blockchain networks allow for distributed control. Different people and institutions that do not trust each other share information without requiring a central administrator.
 
@@ -24,8 +24,9 @@ The concept of a “chain-of-blocks” was introduced in the Bitcoin white paper
 
 **<span style="text-decoration:underline;">Bitcoin Transactions</span>**: When using the Bitcoin network, instead of a bank validating financial transactions, all computers in the network check their copies of the ledger for validity of the transaction, and collectively confirm transactions by majority consensus. No user is trusted more than any other. Instead of a single trusted third party validating transactions through their servers with authority (single vote), a P2P network of computers running the blockchain protocol validates transactions by consensus (majority vote).
 
-![Why is it expensive to manipulate blockchain network transactions] (https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/02_WhyExpensiveToManipulateNetworktrans.png)
+![Why is it expensive to manipulate blockchain network transactions](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/02_WhyExpensiveToManipulateNetworktrans.png)
 
+***
 
 
 The protocol is a set of rules and processes that define how all the (anonymous) nodes in the network can reach an agreement on the true state of the network. The protocol defines how the participants in the network interact with each other: (i) under which conditions sending tokens from A to B is valid; (ii) the economic rewards for validating transactions with a cryptographic token; (iii) how to reference identities and sign transactions; and (iv) who decides over network upgrades.
@@ -51,8 +52,8 @@ For the first time in the history of distributed computing, the Bitcoin protocol
 
 However, security depends on the resilience of the assumptions made on how network actors will react to economic incentives. How people react to incentives has long been a field of study in economics. Cryptoeconomics therefore has much in common with mechanism design, a field of economics related to game theory. Game theory analyzes strategic interactions, which are referred to as games. It tries to understand the best strategies for each player if both players maximize the best outcome for themselves. Mechanism design defines desirable outcomes and works backward to create a game that incentivizes players toward that desired outcome. While cryptoeconomics is interdisciplinary, it is a discipline that was predominantly developed in the computer science community. It seems that there is still much room to incorporate methods from various economic disciplines, and other disciplines (more in the next chapter and in Part 4 - Purpose-Driven Tokens).
 
-![Blockchain Concept](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/11_BlockchainConcept.png)
-
+![Why is the ledger tamper resistant?](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/14b_WhyIsLedgerTamperResistant.png)
+***
 
 “Proof-of-Work” (PoW) is the consensus mechanism used in the Bitcoin network and similar blockchain networks to guarantee that a token transaction sent over the network is valid. The mechanism builds on the assumption that all network nodes could potentially be corrupt, and that the least common denominator is money. Proof-of-Work is designed in a way that (i) if you spend money and play by the rules, you can earn network tokens; (ii) it doesn’t pay to cheat because mining requires special-purpose computer hardware and consumes large amounts of power.
 
@@ -64,9 +65,8 @@ Finding the correct hash value requires some work, in the form of the processing
 
 The “difficulty” of finding that hash value, and therefore creating a block, adjusts over time in order to keep the interblock-time of 10 minutes[^2]  relatively constant. It is adjusted periodically as a function of how much hashing power has been deployed by the network of miners. If blocks are created in less time than 10 minutes, difficulty increases. Likewise, if blocks take longer than 10 minutes to be created, difficulty decreases. Difficulty also increases with the level of competition—the number of other computers competing to validate a block.
 
-
-![Public Ledgers vs. Private Ledgers](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/12_PublicPrivateLedgers.png)
-
+![How Blocks Of Transactions Are Chained](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/14a_HowBlocksOfTransactionsAreChained.png)
+***
 
 
 ## Network Nodes
@@ -99,9 +99,8 @@ A successful 51 percent attack could have the following impact: It would allow y
 What a 51 percent attack cannot do is change existing transactions or fake transactions, like: (i) changing the amount sent in an existing transaction; (ii) changing the recipient of an existing transaction; or (iii) sending someone’s tokens without their approval. This is because all transactions need to be signed with the private key of the token owner, which cannot be revealed by majority agreement of the network. Changing a detail in an existing transaction would render the ledger “illegitimate,” as a transaction without a valid signature would be in it. These types of manipulations can only be achieved by brute-forcing the private-keys of a network actor. Alternatively, one could also break the cryptographic algorithm (SHA) to attack the network, which is why it is essential to use cryptographic algorithms that have been properly stress-tested (read more: Part 1 - Token Security: Cryptography).
 
 
-![How Blocks Of Transactions Are Chained](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/14a_HowBlocksOfTransactionsAreChained.png)
-
-![Why is the ledger tamper resistant?](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/14b_WhyIsLedgerTamperResistant.png)
+![Blockchain Concept](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/11_BlockchainConcept.png)
+***
 
 
 ## Protocol Forks & Network Splits
@@ -186,6 +185,9 @@ While most blockchain literature makes a binary distinction between permissioned
 Also, while for example a “Proof-of-Stake”–based consensus is public, it is not entirely permissionless. The consensus mechanism requires you to own a minimum amount of network tokens to be eligible to validate transactions. “Permissionless” is therefore a relative term that we cannot use in a binary way but rather as a gradient, ranging from “less permissioned” to “fully permissioned.” In such an early stage of distributed ledger systems, permissioned solutions can be useful in highly regulated industries that want to build on a distributed ledger but are subject to government regulation. Industry advocates claim that federated solutions can provide higher levels of efficiency and security and lessen fraud problems of traditional financial institutions. It is not very likely that private blockchains will revolutionize the financial system, but they can replace legacy systems, making the industry more efficient. Permissioned ledgers might also be one step toward a wider adoption of public and permissionless networks, once the underlying technology becomes more scalable and mature, and better understood by regulators.
 
 It is unclear how the technology will pan out in the medium-to-long run. Some predict that permissioned ledgers might suffer the same fate as “Intranets” in the early 1990s, when private companies built their own private networks, because they were afraid to connect with the public Internet. Over time, this fear disappeared. Today, Intranets are used in very limited cases where high levels of security are required.
+
+![Public Ledgers vs. Private Ledgers](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/12_PublicPrivateLedgers.png)
+***
 
 ## Use Cases & Applications
 
