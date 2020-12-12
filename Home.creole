@@ -1,5 +1,9 @@
 Welcome to the TokenEconomyBook wiki!
 ----
+**German Version**: is being translated and published in a separate Github Reporistory: https://github.com/sherminvo/TokenEconomyBuch/wiki <
+
+**Print book (paperback & hardcopy) and eBook editions** are also available on Amazon (https://amzn.to/2W7lQ8h) & other online bookstores.
+----
 **Table of Contents**
 
 *[[Imprint & Licence]]
