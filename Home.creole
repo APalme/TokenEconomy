@@ -3,7 +3,7 @@
 //**Licence**: [[Creative Commons CC-BY-NC-SA|https://creativecommons.org/licenses/by-nc-sa/4.0/]]//
 //This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for **noncommercial purposes only**, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, **you must license the modified material under identical terms**. For **commercial permissions contact:** hello@token.kitchen//
 
-//**German Version**: is currently being translated and published in a separate Github Reporistory: https://github.com/sherminvo/TokenEconomyBuch/wiki <//
+//**German Version**: is currently being translated and published in a separate Github Repository: https://github.com/sherminvo/TokenEconomyBuch/wiki //
 
 //**Print book (paperback & hardcopy) and eBook editions** are also available on Amazon (https://amzn.to/2W7lQ8h) & other online bookstores.//
 ----
