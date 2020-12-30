@@ -19,13 +19,13 @@ If you want to contribute to the collective translation please contact: xueting.
 //**Farsi**: is currently being translated by in a telegram channel by Malihe Mahdavisefat. Due to the sanctions against Iran, Github limits Iranians from contributing, which is why Malieh started the translation in her Telegram channel: t.me/rayablockchain.
 Contact her directly for collaboration.
 
-//**Catalan: coordinate with Marc Rocas: marc@blockchaincatalunya.org
+//**Catalan**: coordinate with Marc Rocas: marc@blockchaincatalunya.org
 
-//**Polish: contact Elwira Stadnik: elwirastadnik@me.com 
+//**Polish**: contact Elwira Stadnik: elwirastadnik@me.com 
 
-//**French: contact Philippe Honigman: philh@tribute.coop
+//**French**: contact Philippe Honigman: philh@tribute.coop
 
-//**Spanish: coordinate with martin.bertoni@ucc.edu.ar and Sebastián Heredia Querro herediaquerro.mde@ucc.edu.ar
+//**Spanish**: coordinate with martin.bertoni@ucc.edu.ar and Sebastián Heredia Querro herediaquerro.mde@ucc.edu.ar
 
 
 ----
