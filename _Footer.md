@@ -11,6 +11,6 @@ Comments: There are various possibilities of forking the text of the book: You c
 If you plan a translation, or other iteration of the book, best to coordinate with me to avoid redundancies, in case someone else is already working on a similar translation/version. 
 
 ### Other Versions
-**German Version**: is currently being translated and published in a separate Github Reporistory: https://github.com/sherminvo/TokenEconomyBuch/wiki
+**German Version**: is currently being translated and published in a separate Github repository: https://github.com/sherminvo/TokenEconomyBuch/wiki
 
 **Print book** (paperback & hardcopy) and **eBook** editions are also available on Amazon (https://amzn.to/2W7lQ8h) & other online bookstores.
