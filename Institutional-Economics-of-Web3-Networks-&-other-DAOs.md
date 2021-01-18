@@ -58,7 +58,7 @@ Nation states are comparable to permissioned networks, rather than permissionles
 ***
 ![Institutional Economics of DAOs 1](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/26a_InstitutionalEconomicsDAOs.png) 
 ***
-![Institutional Economics of DAOs 1](.png) 
+![Institutional Economics of DAOs 1](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/26b_InstitutionalEconomicsOFDAOS.png) 
 ***
 
 
