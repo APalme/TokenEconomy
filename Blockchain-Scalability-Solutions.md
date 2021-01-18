@@ -23,9 +23,18 @@ Keeping transactions off-chain and exclusively between both parties is not only 
 
 The smart contract used to lock the state must know the participants of a given channel in advance. State channels work well with a defined set of participants, but adding and removing participants requires a change in the smart contract, or the creation of a new channel. Projects such as Lightning Network (Bitcoin) or Raiden Network (Ethereum) have come up with solutions based on a mesh of participants, creating a network out of all the channels such that one doesn’t have to create a new channel for every new participant. Transactions can now be routed over other people’s channels, but only as long as there is some direct channel connection over the network. Here is a selected list of state channel solutions for various blockchain networks with different degrees of maturity and success: “Celer,” “Counterfactual,” “Fun Fair,” “Liquidity,” “Lightning” “Machinomy,” “Perun,” “Raiden,”  “Spankchain,” or  “Trinity.” Most solutions are specialized on one blockchain network - such as Bitcoin, Ethereum or Neo - others are network agnostic.
 
+***
+![State Channels](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/18a_StateChannel.png)
+***
+
 ## Sidechains
 Sidechains are separate blockchain networks, compatible with the mainchain. Sidechains have their own consensus mechanism, their own level of security, and their own tokens. The sidechain doesn’t necessarily need to be public and can also be a privately managed ledger. If the security of a sidechain network is compromised, the damage will not affect the mainchain or other sidechains. Both networks are linked to each other via a “two-way peg” and can transfer any state. This way, tokens can be exchanged at a predetermined rate between the mainchain and the sidechain. The mainchain guarantees overall security and dispute resolution, and the transactions that are outsourced to the sidechain can sacrifice decentralization in return for scalability. 
 As opposed to state channels, transactions that occur on a sidechain are not private between the participants of a transaction. They are published on the sidechain network and thus visible to anyone who has access to the ledger. Alice and Bob don’t have to be available all the time, and there are no extra administrative costs in adding or removing participants. Setting up a sidechain, however, is a big effort, as it means building a whole infrastructure from scratch.
+
+
+***
+![Sidechains](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/18B_SISECHAINS.png)
+***
 
 The sidechain interacts with the computation layer on the mainchain and requires tokens to be locked to facilitate disputes. A group of servers (federation) mediates between a mainchain and its sidechains and determines when the tokens a user has used are locked up and released. This adds another security layer between the mainchain and the sidechain. The federation is selected by the sidechain developers. However, such a federation adds another layer between the mainchain and the sidechain and could introduce more attack vectors. Here is a selected list of sidechain solutions for various blockchain networks with different degrees of maturity and success: “Bitcoin Codex,” “Bitcoin Extended,” “Elements Projects,” “Hivemind,” “Loom,” “Liquid,” “Mimblewimble,” “Plasma,” “Poa Network,” or “Rootstock.” 
  
