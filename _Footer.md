@@ -10,7 +10,7 @@ Comments: There are various possibilities of forking the text of the book: You c
 
 If you plan a translation, or other iteration of the book, best to coordinate with me to avoid redundancies, in case someone else is already working on a similar translation/version. 
 
-### Other languages
+** Other languages**
 https://github.com/Token-Economy-Book/
 
 **Print book** (paperback & hardcopy) and **eBook** editions are also available on Amazon (https://amzn.to/2W7lQ8h) & other online bookstores.
