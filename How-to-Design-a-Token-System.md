@@ -89,7 +89,7 @@ The design of token systems also requires ethical and political thinking. What t
 
 To cover all aspects mentioned above, one needs an interdisciplinary team with the necessary expertise in all four fields of the engineering process who work hand in hand. Having lawyers, economists, and social scientists as part of the team in addition to the technical engineers, on executive level and below, will be paramount to developing resilient token systems. However, interdisciplinary work takes time and effort, as all four categories overlap and communication between the disciplines requires some ramp-up efforts. The quick and dirty approach of the Web1 and Web2, where the development process was rather “hack now and pivot later” oriented, does not play out well in the Web3. Once the bias is in the protocol, it is hard to revert the changes without consensus of all network actors. We, therefore, need to move away from Silicon Valley “meme-based development” to an “engineering-based development” that includes all aspects of the engineering process. “Simple token systems” will probably require predominantly legal and technological engineering, while “complex token systems” will need a good balance of all four areas. 
 
-***
+
 ### Chapter Summary
 
 > The terms “design” and “engineering” are closely related but not the same. Rather, they complement each other. While the term “design” might be a more known and intuitive term, carrying a more subjective, creative, and even artistic meaning, the term “engineering” tends to bring to the forefront the technical aspects, the composition of inert parts to create a predictable and robust whole.
