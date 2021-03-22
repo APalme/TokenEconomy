@@ -7,7 +7,7 @@ Before launching a token sale, developers would present a so-called white paper 
 It is important to point out that the Bitcoin blockchain never had a token sale, and that Bitcoin tokens are continuously minted each time a block of transactions is created (read more: Part 1 - Bitcoin, Blockchain, & other DLTs, Part 4 - Purpose-Driven Tokens). As opposed to native blockchain tokens that are issued upon Proof-of-Work, and incentivize individual contributions to the network to keep it safe, token sales introduced a static mechanism for issuing tokens against a direct financial fee, before the project becomes operational. Tokens would be created only once, before the launch of the project, and issued to investors. In such a setup, a certain portion of the token supply, or the entire token supply, is released before the launch of a project, in many cases even before any code is written.
 
 ***
-![History of Token Sales](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/25_HistoryOfTokens.png)
+![P2P Token Sales](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/20_P2PToken%20Sales.png)
 ***
 
 ## History of Token Sales
@@ -30,16 +30,9 @@ Regardless of current market sentiments, token sales have become a popular fundr
 
 As the markets consolidated and regulators caught up, token sales started differentiating between the types of tokens they issued. Security token offerings (STOs) are token offerings that issue tokens that are classified as securities. Security tokens are an exciting new token class that offer embedded business logic that is compliant with regulatory requirements such as Know Your Customer (KYC) and Anti-Money Laundering (AML). The ability to easily fractionalize the ownership of a security token allows for new levels of fractional security investments, which will allow novel and more personalized asset types and derivatives. Any retail investors could hold a portfolio of quality investments, which until now have only been accessible to private equity firms. Regulatory bodies of many countries have already made statements or passed regulations, and many more countries are following. Furthermore, a range of service providers specialized in security tokens is emerging, from lawyers to investment advisers, insurers, and custodians. Explicit regulation of security tokens can provide more certainty not only for investors (investor protection) but also for entrepreneurs, who for a long time had to deal with frozen bank accounts and fear of litigation, due to the uncertainty of whether or not their project or token violated some kind of regulation (read more: Part 4 - Asset Tokens & Fractional Ownership).
 
-
-
-
-### 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
+***
+![History of Token Sales](https://github.com/sherminvo/TokenEconomyBook/blob/main/imgs/25_HistoryOfTokens.png)
+***
 
 
 ## Types of Token Sales
@@ -64,9 +57,7 @@ As new token sale mechanisms and third-party service providers are entering the 
 
 Initial Exchange Offerings also provide more flexibility for investors, since they are not forced to pay with one particular token, but could potentially pay with any of the tokens they have already deposited on that exchange. IEOs mitigate the risk for investors to enter into a “gas war” and worry about transaction fees.[^4] Investors also avoid going through a separate identification process, if they are already registered on the exchange. Since exchanges have a reputation to lose, they can be expected to audit the issuer, perform technical analysis, and assess the potential of a token, reducing the possibility for scammers to sell their tokens, thereby providing a certain level of investor protection. Exchanges could hereby introduce necessary standardization of the industry. Exchanges, on the other hand, benefit from conducting IEOs as an additional source of revenue. They might attract new users, who sign up for the exchange in order to participate in a particular token, to become long-term users of the exchange. However, as long as token exchanges are not decentralized, IEOs also eradicate the P2P nature of early token sales.
 
-***
 ### Chapter Summary
-
 > Token sales allow the issuance of cryptographic tokens in exchange for existing tokens, entirely P2P. They became popular with the advent of the Ethereum network. Anyone can issue and sell tokens with a smart contract. 
 
 > These first token sales were referred to as Initial Coin Offerings (ICOs), but as the term “token” became more mainstream, token offerings or ITOs (Initial Token Offerings), and in the specific cases of securities, STOs (Security Token Offering), became the term of the hour.
