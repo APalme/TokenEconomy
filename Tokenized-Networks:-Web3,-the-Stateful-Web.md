@@ -137,7 +137,7 @@ For the average user, decentralized applications need to look and feel the same 
 * Swarm: [https://swarm-guide.readthedocs.io/en/latest/](https://swarm-guide.readthedocs.io/en/latest/)_
 
 
-<!-- Footnotes themselves at the bottom. -->
+
 ### Footnotes
 
 [^1]:
