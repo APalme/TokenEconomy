@@ -71,7 +71,7 @@ While P2P lending protocols create exciting new possibilities, the scene is stil
 > In the current financial industry, such market manipulation can only be conducted by individuals or institutions with many assets. In a way, flash loans democratize market manipulation.
 
 
-***
+
 ### Chapter References & Further Reading
 
 * Asolo, Bisade: "What is Uniswap? A Detailed Beginner’s Guide," MyCryptopedia, March 28 2019, https://www.mycryptopedia.com/what-is-uniswap-a-detailed-beginners-guide/
@@ -114,7 +114,7 @@ While P2P lending protocols create exciting new possibilities, the scene is stil
 * Uniswap: https://uniswap.io/
 
 
-***
+
 ### Footnotes
 
 [^1]:
