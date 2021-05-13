@@ -1,7 +1,10 @@
-### Licence
+Token Economy: How the Web3 reinvents the Internet.<br>
+Second edition, first amended printing, Nov 2020. The first edition was published by BlockchainHub Berlin https://blockchainhub.net in June 2019 under the title “Token Economy: How Blockchain & Smart contracts revolutionize the Economy” and had two amended editions.
 
-Copyleft 2020, Shermin Voshmgir:
-[Creative Commons CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Author: Shermin Voshmgir
+BibTeX: @book{voshmgir2020token, title={Token Economy: How the Web3 reinvents the Internet}, author={Voshmgir, Shermin}, year={2020}, publisher={Token Kitchen} }
+
+LICENCE: Copyleft 2020, Shermin Voshmgir:[Creative Commons CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for **noncommercial purposes only**, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, **you must license the modified material under identical terms**. 
 
 For **commercial permissions contact:** hello@token.kitchen
